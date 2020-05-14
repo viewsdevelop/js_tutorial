@@ -8,5 +8,3 @@ if (phrase.palindrome()) {
 } else {
   alert(`"${phrase.content}" is not a palindrome.`)
 }
-
-TEST
