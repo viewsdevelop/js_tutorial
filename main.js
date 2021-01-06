@@ -1,3 +1,5 @@
+// Note that this file makes use of JavaScript string interpolation.
+
 let Phrase = require("<username>-palindrome");
 
 let string = prompt("Please enter a string for palindrome testing:");
